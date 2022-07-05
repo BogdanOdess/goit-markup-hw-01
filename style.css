@@ -1,3 +1,14 @@
 .body{margin: 0%; padding: 0%;}
 
+.header >h4{
+    font-size: 25px;
+    color: rgb(24, 129, 158);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
 
+.header a {
+    text-decoration: none;
+    margin: 2.5%;
+    
+}

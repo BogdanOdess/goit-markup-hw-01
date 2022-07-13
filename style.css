@@ -1,7 +1,7 @@
 .body{margin: 0%; padding: 0%; background: #E5E5E5;} 
 
 .header{
-    width: 1600px;
+    width: 1360px;
     margin: 0 auto;
     background-color: #FFFFFF;
     padding: 25px 215px 0 25px;
@@ -22,8 +22,6 @@
     #000000;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-
-
 
 .header >ul { 
     list-style-type: none;
@@ -66,15 +64,12 @@
     position: absolute;
     width: 136px;
     height: 30px;
-    left: 640px;
+    right: 1px;
     top: 380px;
     
     font-family: 'Roboto';
     font-style: normal;
-    font-weight: 700;
     font-size: 16px;
-    line-height: 100px;
-    
     display: flex;
     align-items: center;
     text-align: center;
@@ -123,13 +118,12 @@
 .image>img{
     border-radius: 10%;
     width: 20%;
-    margin: 1%;
-    
 }
 
 .comand{
     background: #E5E5E5;
     margin: 0 auto;
+    width: 1600px;
 }
 
 .comand>h1{
